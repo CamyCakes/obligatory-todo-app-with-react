@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/obligatory-todo-app-with-react/static/css/main.9ed85a18.chunk.css",
+    "main.js": "/obligatory-todo-app-with-react/static/js/main.b6372e3a.chunk.js",
+    "main.js.map": "/obligatory-todo-app-with-react/static/js/main.b6372e3a.chunk.js.map",
+    "runtime~main.js": "/obligatory-todo-app-with-react/static/js/runtime~main.c1b51f38.js",
+    "runtime~main.js.map": "/obligatory-todo-app-with-react/static/js/runtime~main.c1b51f38.js.map",
+    "static/js/2.9faada80.chunk.js": "/obligatory-todo-app-with-react/static/js/2.9faada80.chunk.js",
+    "static/js/2.9faada80.chunk.js.map": "/obligatory-todo-app-with-react/static/js/2.9faada80.chunk.js.map",
+    "index.html": "/obligatory-todo-app-with-react/index.html",
+    "precache-manifest.513b4630cc288907b32f234386561a32.js": "/obligatory-todo-app-with-react/precache-manifest.513b4630cc288907b32f234386561a32.js",
+    "service-worker.js": "/obligatory-todo-app-with-react/service-worker.js",
+    "static/css/main.9ed85a18.chunk.css.map": "/obligatory-todo-app-with-react/static/css/main.9ed85a18.chunk.css.map"
+  }
+}
