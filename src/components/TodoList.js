@@ -6,9 +6,7 @@ class TodoList extends React.Component {
 		super( props );
 		this.state = {
 			listTitles:[
-				'List 1',
-				'List 2',
-				'List 3'
+				'Things I Must Do'
 			],
 			lists: [
 				[
@@ -16,7 +14,7 @@ class TodoList extends React.Component {
 						label: 'That one thing',
 						isChecked: false,
 					}, {
-						label: 'Create a React component',
+						label: 'Make some React components',
 						isChecked: true,
 					}, {
 						label: 'Understand the meaning of reality',
@@ -28,41 +26,7 @@ class TodoList extends React.Component {
 						label: 'Be good',
 						isChecked: true,
 					}
-				],[
-					{ 
-						label: 'That one thing',
-						isChecked: false,
-					}, {
-						label: 'Create a React component',
-						isChecked: true,
-					}, {
-						label: 'Understand the meaning of reality',
-						isChecked: false,
-					}, {
-						label: 'Survive',
-						isChecked: false,
-					}, {
-						label: 'Be good',
-						isChecked: true,
-					}
-				],[
-					{ 
-						label: 'That one thing',
-						isChecked: false,
-					}, {
-						label: 'Create a React component',
-						isChecked: true,
-					}, {
-						label: 'Understand the meaning of reality',
-						isChecked: false,
-					}, {
-						label: 'Survive',
-						isChecked: false,
-					}, {
-						label: 'Be good',
-						isChecked: true,
-					}
-				]				
+				]			
 			]
 		}
 	}
